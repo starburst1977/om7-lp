@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-49.8%" y="-49.8%" width="199.7%" height="199.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-49.8%" y="-49.8%" width="199.7%" height="199.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.7%" y="-37.7%" width="175.4%" height="175.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill-opacity="0.38" fill="#3BFF00" filter="url(#filter-1)" cx="536.5" cy="292.5" r="150.5"></circle>
+        <circle id="Oval" fill-opacity="0.62" fill="#3800FF" filter="url(#filter-2)" cx="536.5" cy="484.5" r="150.5"></circle>
+        <circle id="Oval" fill-opacity="0.62" fill="#FFD900" filter="url(#filter-3)" cx="311" cy="458" r="199"></circle>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1814px" height="698px" viewBox="0 0 1814 698" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-19.9%" y="-44.9%" width="139.8%" height="189.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="45" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-31.1%" y="-63.0%" width="162.1%" height="226.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-16.1%" y="-37.7%" width="132.3%" height="175.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="om7-bg-1" transform="translate(154.000000, 150.000000)" fill-rule="nonzero">
+            <ellipse id="Oval" fill-opacity="0.24" fill="#3BFF00" opacity="0.62" filter="url(#filter-1)" cx="339.5" cy="228.5" rx="339.5" ry="150.5"></ellipse>
+            <ellipse id="Oval" fill-opacity="0.38" fill="#3800FF" opacity="0.38" filter="url(#filter-2)" cx="1197.5" cy="197" rx="241.5" ry="119"></ellipse>
+            <ellipse id="Oval" fill-opacity="0.62" fill="#FFD900" opacity="0.62" filter="url(#filter-3)" cx="768.5" cy="199" rx="464.5" ry="199"></ellipse>
+        </g>
+    </g>
+</svg>
